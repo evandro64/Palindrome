@@ -15,6 +15,7 @@ public class DesafioECore_Palindromo {
         Palindromo("1234809890");
         Palindromo("socorram me subi no onibus em marrocos");
         Palindromo("Este não pode ser palindrome");
+        Palindromo("Amor me ame em roma");
     }
 
     public static void Palindromo(String frase) { 
